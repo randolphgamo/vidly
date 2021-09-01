@@ -3,14 +3,14 @@ this is a video rental app. I did this project as part of learning react on code
 
 ## What did I learn
 I learnt a couple of concepts and I could directly put them into practice in building this app:
-*Bootstrap
-*Props, History
-*Controllable Components
-*Life Cycle Hooks
-*Axios, Promises (await,async), calling backend services
-*Validation with Joi
-*Handling Errors (Expected and unexpected)
-*Logging with Sentry
+* Bootstrap
+* Components, array Map functions, arrow functions
+* Props, History
+* Life Cycle Hooks
+* Axios, Promises (await,async), calling backend services
+* Validation with Joi
+* Handling Errors (Expected and unexpected)
+* Logging with Sentry
 
 
 
