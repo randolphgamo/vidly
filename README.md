@@ -11,6 +11,7 @@ I learnt a couple of concepts and I could directly put them into practice in bui
 * Validation with Joi
 * Handling Errors (Expected and unexpected)
 * Logging with Sentry
+*  and alot more ..
 
 
 
